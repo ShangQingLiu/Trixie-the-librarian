@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: Trixi the Librarian
+message: >-
+  This is only the pre-access repository, the formal
+  one would later announce on Arxiv.
+type: software
+authors: [Fabian Wieczorek, Shang-Ching Liu, Björn Sygo, Mykhailo Koshil]
